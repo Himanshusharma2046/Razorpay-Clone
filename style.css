@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.bg-deepBlue {
+    --tw-bg-opacity: 1;
+    background-color: rgb(2 4 42 / var(--tw-bg-opacity)) /* #02042a */;
+}
